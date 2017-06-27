@@ -1,0 +1,168 @@
+$WAVE4
+$RESOLUTION 1000
+$ENDTIME 160000
+I 1 "c#9#STD_LOGICc9 UX01ZWLH-"
+$S 1 1 "/karno/r3"
+$S 2 1 7 1 s
+$S 3 1 7 0 r2
+$S 4 1 7 1 s
+$S 5 1 7 0 r1
+$S 6 1 7 1 s
+$S 7 1 7 0 r0
+$S 8 1 7 1 s
+I 2 "a#30#STD_LOGIC_VECTOR(Lst downto 0)1 ricd3 0 c#9#STD_LOGICc9 UX01ZWLH-"
+$BUS S 9 2 4 7 0 q
+$SC +1-+3
+I 3 "a#30#STD_LOGIC_VECTOR(Lin downto 0)1 ricd1 0 c#9#STD_LOGICc9 UX01ZWLH-"
+$BUS IN +1 3 2 7 0 x
+$SC +1 +1
+$OUT +1 1 7 0 z
+P 0 1-17 CS "0"
+P 0 15 Stimulator "KEY:KEY:Override:81/0,1:Q:1:"
+P 0 +1 Stimulator "KEY:KEY:Override:87/0,1:W:1:"
+$WAVES 1
+=0 T 0
+=1 D 10k 2
+=2 D 20k 2
+=3 D 110k 2
+$VALUES
+R 2 2 0 1
+$END
+$WAVES 2
+*0
+=4 D 50k 2
+*1
+$VALUES
+V 3
+0
+1
+0
+$END
+$WAVES 3
+*0
+*1
+=5 D 40k 4
+=6 D 90k 4
+$VALUES
+R 2 2 0 1
+$END
+$WAVES 4
+*0
+=7 D 70k 2
+R 1 7 *1
+$VALUES
+R 2 4 0 1
+V 1
+0
+$END
+$WAVES 5
+*0
+=8 D 60k 2
+R 1 8 *1
+=9 D 0 4
+$VALUES
+R 2 5 0 1
+V 1
+0
+$END
+$WAVES 6
+*0
+=10 D 40k 2
+*1
+$VALUES
+V 3
+0
+1
+0
+$END
+$WAVES 7
+*0
+R 1 2 *1
+*3
+R 1 2 *1
+$VALUES
+R 2 3 0 1
+$END
+$WAVES 8
+*0
+=11 D 30k 2
+R 1 9 *1
+$VALUES
+R 2 5 0 1
+V 1
+0
+$END
+$WAVES +2
+*0
+=12 D 50k 3
+=13 D 90k 3
+$VALUES
+V 3
+0
+1
+0
+$END
+$WAVES +1
+*0
+=14 D 70k 3
+=15 D 70k 5
+$VALUES
+V 3
+0
+1
+0
+$END
+$WAVES +1
+*0
+=16 D 40k 3
+=17 D 20k 3
+$VALUES
+V 3
+0
+1
+0
+$END
+$WAVES +1
+*0
+=18 D 30k 3
+=19 D 100k 3
+$VALUES
+V 3
+0
+1
+0
+$END
+$WAVES +2
+*0
+=20 D 30k 1
+R 1 11 =21 D 10k 1
+$VALUES
+R 2 6 0 1
+V 1
+0
+$END
+$WAVES +1
+*0
+R 1 2 *21
+=22 D 110k 1
+R 1 2 *21
+$VALUES
+R 2 3 0 1
+$END
+$WAVES +1
+*0
+=23 D 0 1
+=24 D 30k 4
+=25 D 10k 4
+=26 D 20k 4
+*25
+=27 D 60k 4
+=28 D 10k 6
+$VALUES
+V 1
+U
+R 2 3 0 1
+V 1
+0
+$END
+$ENDWAVE

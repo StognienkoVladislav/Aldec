@@ -1,0 +1,1 @@
+-w -s "E:\“ œ –√–\library.cfg"  -j "E:\“ œ –√–\rgr_stognienko\projlib.cfg"  -d "E:\“ œ –√–\rgr_stognienko\compile"   -work rgr_stognienko  -O3 -e 100 -2002 "E:\“ œ –√–\rgr_stognienko\src\avtomat.vhd"

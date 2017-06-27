@@ -1,0 +1,56 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=3
+Current Config=compile
+
+[Configurations]
+compile=rgr_stognienko
+
+[Library]
+rgr_stognienko=.\rgr_stognienko.LIB
+
+[Settings]
+AccessRead=0
+AccessReadWrite=0
+AccessACCB=0
+AccessACCR=0
+AccessReadWriteSLP=0
+AccessReadTopLevel=1
+DisableC=1
+ENABLE_ADV_DATAFLOW=0
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=
+
+[LocalVerilogSets]
+EnableSLP=1
+EnableDebug=0
+
+[LocalVhdlSets]
+CompileWithDebug=0
+
+[$LibMap$]
+rgr_stognienko=.
+Active_lib=
+
+[HierarchyViewer]
+SortInfo=u
+HierarchyInformation=karno|karno|0 
+ShowHide=ShowTopLevel
+Selected=
+
+[Files]
+/avtom_ne_min.vhd=-1
+/avtom_min.vhd=-1
+/avtom_grey.vhd=-1
+/avtomat.vhd=-1
+
+[Files.Data]
+.\src\avtom_ne_min.vhd=VHDL Source Code
+.\src\avtom_min.vhd=VHDL Source Code
+.\src\avtom_grey.vhd=VHDL Source Code
+.\src\avtomat.vhd=VHDL Source Code
+

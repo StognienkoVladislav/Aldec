@@ -1,0 +1,5 @@
+WARNING DAGGEN_0523: "The source is compiled without the -dbg switch. Line breakpoints, code coverage, and assertion debug will not be available." 
+MESSAGE "File: E:\“ œ –√–\rgr_stognienko\src\avtomat.vhd" 
+MESSAGE "Compile Entity "karno"" 
+MESSAGE "Compile Architecture "karno" of Entity "karno"" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  78.0 [ms]" 

@@ -1,0 +1,61 @@
+timestamp=1495709225559
+
+[a1ent]
+A/a1arc=21|./src/avtom_ne_min.vhd|11|1*147491
+BinI32/a1arc=3*37833
+I=0*464
+I/a1arc=0*26668
+M=11|0|v98|1493655451328|./src/avtom_ne_min.vhd|0*151*0xe966c31a512565bdee9430d02f86fb1206fb5eff|0*386*0xab32bc1a2daf049573e14469f634e0e6
+M/a1arc=21|0|v98|1495703379642|./src/avtom_ne_min.vhd|0*25569*0x44d1d5fb89a561688e03ab687c7cda9aa38cbf92|0*26581*0xb33770ff1c10522f9491560174ac8e6c
+R=./src/avtom_ne_min.vhd|3
+Version=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+Version/a1arc=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+
+[avtomat]
+A/avtomat=21|./src/avtom_min.vhd|16|1*150215
+BinI32/avtomat=3*38722
+I=0*2266
+I/avtomat=0*5146
+M=11|0|v98|1493659301760|./src/avtom_min.vhd|0*1951*0x06711d66f150b97cf7ec0ccb29ed8c27ad7936a8|0*2189*0xab32bc1a2daf049573e14469f634e0e6
+M/avtomat=21|0|v98|1495703379773|./src/avtom_min.vhd|0*4305*0x0508191a89b85c0e3b7cfe13a36ea92ceb34f4b8|0*5058*0xb33770ff1c10522f9491560174ac8e6c
+R=./src/avtom_min.vhd|4
+Version=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+Version/avtomat=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+
+[karno]
+A/karno=21|./src/avtomat.vhd|8|1*170856
+BinI32/karno=3*50465
+I=0*9326
+I/karno=0*27593
+M=11|0|v98|1493676452942|./src/avtomat.vhd|0*9009*0x86c702c3318a449d6253c958b08b187e04c81a1e|0*9253*0xab32bc1a2daf049573e14469f634e0e6
+M/karno=21|0|v98|1495709225488|./src/avtomat.vhd|0*26773*0xe2a65c1e0a0ffbe6efe75a7885615ad9158bb8da|0*27511*0xb33770ff1c10522f9491560174ac8e6c
+R=./src/avtomat.vhd|3
+Version=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+Version/karno=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+
+[kod_grey]
+A/kod_grey=21|./src/avtom_grey.vhd|10|1*165567
+BinI32/kod_grey=3*48112
+I=0*7099
+I/kod_grey=0*8701
+M=11|0|v98|1493669079825|./src/avtom_grey.vhd|0*6711*0xad4c236de91e1bdb29734935733356a3d567123c|0*7020*0xab32bc1a2daf049573e14469f634e0e6
+M/kod_grey=21|0|v98|1495705192507|./src/avtom_grey.vhd|0*7201*0x281b49518f5d4bd27e1101b8486d534ce56cbe74|0*8610*0xb33770ff1c10522f9491560174ac8e6c
+R=./src/avtom_grey.vhd|3
+Version=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+Version/kod_grey=9.1.2353.4205  (Windows)|00000003789cd3f5370600015b00b0
+
+[~A]
+ModifyID=404
+Version=73
+
+[~MFT]
+0=159|0rgr_stognienko.mgf|27593|20490
+1=131|1rgr_stognienko.mgf|170856|163133
+3=129|3rgr_stognienko.mgf|50465|46369
+
+[~U]
+a1ent=11|0*0|
+avtomat=11|0*1767|
+karno=11|0*8812|
+kod_grey=11|0*6459|
+

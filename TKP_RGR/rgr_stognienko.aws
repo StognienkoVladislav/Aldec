@@ -1,0 +1,12 @@
+[Version]
+Version=9.1
+[Designs]
+rgr_stognienko=.\rgr_stognienko\rgr_stognienko.adf
+[Browser]
+sort=order
+mode=none
+[Order]
+order=1
+macro=
+[Expand]
+rgr_stognienko=1

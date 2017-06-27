@@ -1,0 +1,9 @@
+404
+~E 1 "./src/avtom_ne_min.vhd" 3 a1ent
+~A 1 "./src/avtom_ne_min.vhd" 11 a1arc
+~E 1 "./src/avtom_min.vhd" 4 avtomat
+~A 1 "./src/avtom_min.vhd" 16 avtomat
+~E 1 "./src/avtomat.vhd" 3 karno
+~A 1 "./src/avtomat.vhd" 8 karno
+~E 1 "./src/avtom_grey.vhd" 3 kod_grey
+~A 1 "./src/avtom_grey.vhd" 10 kod_grey
